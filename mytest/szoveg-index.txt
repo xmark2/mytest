@@ -1,0 +1,3 @@
+ESZIK 2
+PETI 1,2
+ÉHES 1,2
